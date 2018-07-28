@@ -1,0 +1,11 @@
+{
+    "name": "mao/aliyun-opensearch",
+    "description": "开放搜索",
+    "authors": [
+        {
+            "name": "maojinbiao",
+            "email": "maojinbiao@maka.im"
+        }
+    ],
+    "require": {}
+}
