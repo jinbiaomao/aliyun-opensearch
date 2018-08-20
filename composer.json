@@ -7,5 +7,8 @@
             "email": "maojinbiao@maka.im"
         }
     ],
+    "autoload": {
+        "files": ["OpenSearch/Autoloader/Autoloader.php"]
+    },
     "require": {}
 }
